@@ -16,4 +16,4 @@ If you think you find a bug or you have a feature idea to propose, feel free to 
 
 ## License
 
-This package is available under the [MIT license](LICENSE).
+This package is available under the [MIT license](LICENSE)
